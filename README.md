@@ -2,15 +2,19 @@
 
 Repository ni Melvs
 
-conn_db <-- connecting to database
-
-Product list module                         Order Module
-    product_display.php                         o_order_display.php
-    add_item.php                                o_diplaycart.php
-    delete_item.php                             o_checkout.php
-    update_item.php                             o_process_checkout.php
-                                                o_order_list.php
-
+Product list module  <--                      
+    product_display.php , 
+    add_item.php , 
+    delete_item.php , 
+    update_item.php , 
+                                                
+Order Module  <--
+    o_order_display.php , 
+    o_diplaycart.php , 
+    o_checkout.php , 
+    o_process_checkout.php , 
+    o_order_list.php , 
+ 
 note to anyone who want to check my midterm 
 
 how to operate this? just follow the instruction cuz even i get confused with my php files hehe...

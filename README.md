@@ -34,6 +34,6 @@ thats my answer to part v order module
 it's just the same with the function in the main php files, it is just the user interface tho with no functionality
 what so ever
 
-di ko ma paste ung full code kasi too large ayaw i-accept kaya usng UI nalang nilagay ko
+di ko ma paste ung full code kasi too large ayaw i-accept kaya yung UI nalang nilagay ko
 
 thanks

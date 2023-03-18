@@ -16,7 +16,7 @@ Order Module  <--
     o_order_list.php
  
  
-note to anyone who want to check my midterm 
+note to anyone who want to check it
 
 how to operate this? just follow the instruction cuz even i get confused with my php files hehe...
 

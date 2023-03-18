@@ -15,10 +15,10 @@ Order Module  <--
     o_process_checkout.php , 
     o_order_list.php , 
  
+ 
 note to anyone who want to check my midterm 
 
 how to operate this? just follow the instruction cuz even i get confused with my php files hehe...
-
 
 use the exam_db.sql and create a database
 make sure name of the database is --> exam_db 
@@ -35,7 +35,6 @@ then login
 and you can test it now...very simple
 
 just as simple as that sheesh sheebar mind break...
-
 
 
 by the way just ignore the php file with z_exam

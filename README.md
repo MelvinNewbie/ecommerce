@@ -6,14 +6,14 @@ Product list module  <--
     product_display.php , 
     add_item.php , 
     delete_item.php , 
-    update_item.php , 
+    update_item.php
                                                 
 Order Module  <--
     o_order_display.php , 
     o_diplaycart.php , 
     o_checkout.php , 
     o_process_checkout.php , 
-    o_order_list.php , 
+    o_order_list.php
  
  
 note to anyone who want to check my midterm 

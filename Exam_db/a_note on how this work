@@ -1,3 +1,17 @@
+Product list module  <--                      
+    product_display.php , 
+    add_item.php , 
+    delete_item.php , 
+    update_item.php
+                                                
+Order Module  <--
+    o_order_display.php , 
+    o_diplaycart.php , 
+    o_checkout.php , 
+    o_process_checkout.php , 
+    o_order_list.php
+
+
 note to anyone who want to check my midterm 
 
 how to operate this? just follow the instruction cuz even i get confused with my php files hehe...
@@ -29,5 +43,7 @@ by the way just ignore the php file with z_exam
 thats my answer to part v order module
 it's just the same with the function in the main php files, it is just the user interface tho with no functionality
 what so ever
+
+di ko ma paste ung full code kasi too large ayaw i-accept kaya yung UI nalang nilagay ko
 
 thanks
